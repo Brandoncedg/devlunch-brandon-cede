@@ -1,0 +1,24 @@
+Proporcionar una explicación en archivo .txt de acciones de preparación antes de conducir.
+
+Este ejercicio sirve para dar ejemplo de los algortimos basicos con un ejemplo real.
+
+SOLUCIÓN
+
+Buscar llaves
+
+Abrir puerta
+
+-Si está cerrado uso la llave
+-Si está sin bloqueo, abro la puerta
+
+Me siento  y cinturón
+
+Si varios usan el carro:
+Ajusto espejos
+Si no, quedarían a como están
+
+Si un carro viene cerca?
+-Espero a que pase
+-Si no viene nada, continúo saliendo
+
+Voy hacia mi destino.
