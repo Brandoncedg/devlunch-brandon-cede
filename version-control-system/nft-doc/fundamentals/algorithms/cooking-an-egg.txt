@@ -1,0 +1,14 @@
+Proporcionar una explicación detallada en un .txt de acciones antes de realizar un huevo.
+
+SOLUCIÓN
+
+Ve a la cocina.
+Buscar sartén
+Buscar un huevo.
+Aceite al sartén.
+Calentar el sartén.
+Tirar huevo.
+Agregar sal.
+Dejarlo cocinar.
+Buscar un plato.
+Servir el huevo después de cocinar.
