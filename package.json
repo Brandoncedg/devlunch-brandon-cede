@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Brandoncedg/devlunch-brandon-cede/issues"
   },
-  "homepage": "https://github.com/Brandoncedg/devlunch-brandon-cede#readme"
+  "homepage": "https://github.com/Brandoncedg/devlunch-brandon-cede#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
