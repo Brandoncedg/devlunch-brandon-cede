@@ -33,9 +33,9 @@ function calculateRecharge(amount, duration){
 
 
 function main(){
-  const name= prompt("Nombre: ")
-  const amount= parseInt(prompt("Amount $: "))
-  const duration= parseInt(prompt("Duration (months): "))
+  const name = prompt("Nombre: ")
+  const amount = parseInt(prompt("Amount $: "))
+  const duration = parseInt(prompt("Duration (months): "))
 
   const recharge = calculateRecharge(amount, duration)
   const promo = recharge - amount
