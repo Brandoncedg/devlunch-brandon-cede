@@ -1,0 +1,23 @@
+
+
+const triangle1 = {
+  a: 7,
+  b: 10,
+  c: 5
+}
+
+const triangle2= {
+  a: 2,
+  b: 3,
+  c: 6
+}
+
+
+const isValidTriangle = (triangle) => {
+  const { a, b, c} = triangle
+
+  return (b + c) > a && (a + c) > b && (a + b) > c
+}
+
+console.log(isValidTriangle(triangle1))
+console.log(isValidTriangle(triangle2))
