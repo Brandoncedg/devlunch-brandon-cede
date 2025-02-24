@@ -1,5 +1,4 @@
-
-const prompt = require("prompt-sync")()
+prompt = require("prompt-sync")()
 
 const MIN_ASSITANT_GRADE = "C"
 const AMOUT_OF_GRADES = 4
@@ -28,10 +27,10 @@ function validateSholarship(grade1, grade2, grade3, grade4, assistantGrade) {
 }
 
 function main() {
-  const grade1= parseFloat(prompt("Grade#1 "))
-  const grade2= parseFloat(prompt("Grade#2 "))
-  const grade3= parseFloat(prompt("Grade#3 "))
-  const grade4= parseFloat(prompt("Grade#4 "))
+  const grade1= prompt("Grade#1 "))
+  const grade2= prompt("Grade#2 "))
+  const grade3= prompt("Grade#3 "))
+  const grade4= prompt("Grade#4 "))
 
   const assistantGrade = prompt("Assistant Grade (A, B, C): ").toUpperCase()
 
