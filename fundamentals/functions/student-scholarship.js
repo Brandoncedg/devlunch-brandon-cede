@@ -27,10 +27,10 @@ function validateSholarship(grade1, grade2, grade3, grade4, assistantGrade) {
 }
 
 function main() {
-  const grade1= prompt("Grade#1 "))
-  const grade2= prompt("Grade#2 "))
-  const grade3= prompt("Grade#3 "))
-  const grade4= prompt("Grade#4 "))
+  const grade1= prompt("Grade#1 ")
+  const grade2= prompt("Grade#2 ")
+  const grade3= prompt("Grade#3 ")
+  const grade4= prompt("Grade#4 ")
 
   const assistantGrade = prompt("Assistant Grade (A, B, C): ").toUpperCase()
 
