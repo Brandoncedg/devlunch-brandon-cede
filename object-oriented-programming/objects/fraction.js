@@ -131,11 +131,10 @@ console.log("Ahora con lo que has devuelto son: ",devolver.copias)
 
 */
 
-function Persona(nombre, edad) {
-  this.nombre = nombre;
-  this.edad = edad;
+const Persona = (nombre,edad) => {
+  this.nombre = nombre
+  this.edad = edad
 }
 
-const persona1 = new Persona("Juan", 30);
-const persona2 = new Persona("María", 25);
+const persona1 = new Persona("PEPE", 30)
 console.log(persona1)
